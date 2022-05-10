@@ -175,7 +175,7 @@ const dataportfolio = {
 const contactConfig = {
     YOUR_EMAIL: "umesh.sh31@gmail.com",
     YOUR_FONE: "(437)262-4547",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "",
     YOUR_SERVICE_ID: "service_imoi6ot",
     YOUR_TEMPLATE_ID: "template_gb5pbi8",
     YOUR_USER_ID: "EjxqmNnqUzHpkK4br",
