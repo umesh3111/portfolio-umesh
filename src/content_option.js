@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "Hi there!",
-    aboutme: "I’m Umesh, a software developer from India with about 4 years of end-to-end software development. I am currently studying financial technology here in Toronto, ON. I am a tech enthusiast who loves to work in a tech-focused domain. "
+    aboutme: "I’m Umesh, a software developer from India with about 4 years of end-to-end software development. I am currently based in Toronto, ON. I am a tech enthusiast who loves to work in a tech-focused domain. "
         +
         "My expertise involves building enterprise level products that are scalable, robust and fast performing.I would love to help your tech-team build your product/products. If you find my experience relevant I would love to get in touch and answer any questions you have.",
 };
@@ -162,7 +162,7 @@ const services = [{
 ];
 
 const dataportfolio = {
-    description: "I would like to take a brief moment of yours to introduce myself. I’m Umesh, a software developer from India with about 4 years of end-to-end software development. I am currently studying financial technology here in Toronto, ON. I am a tech enthusiast and would like to work in a tech-focused domain for the while I’m studying. My expertise involves building enterprise level products that are scalable, robust and fast performing.I would love to help your tech-team build your product/products. If you find my experience relevant I would love to get in touch and answer any questions you have. Also, I am enclosing my skills and the most recent project highlights. Please take a look, and thanks a ton for your time.",
+    description: "I would like to take a brief moment of yours to introduce myself. I’m Umesh, a software developer from India with about 4 years of end-to-end software development. I am currently based in Toronto, ON. I am a tech enthusiast and would like to work in a tech-focused domain. My expertise involves building enterprise level products that are scalable, robust and fast performing.I would love to help your tech-team build your product/products. If you find my experience relevant I would love to get in touch and answer any questions you have. Also, I am enclosing my skills and the most recent project highlights. Please take a look, and thanks a ton for your time.",
     languages: "Javascript, Typescript, Html, css, dart, python (basics)",
     frameworks: "Express, Looback, NestJS, Angular, React, Nextjs",
     dbs: "MongoDB, MySQL, Maria, Postgres",
